@@ -1,4 +1,4 @@
-# ![Smiley Face](https://raw.githubusercontent.com/alexandercddev/vercel-features-animation/master/src/assets/images/preview.jpg) 
+# ![Vercel Features Animation](https://raw.githubusercontent.com/alexandercddev/vercel-features-animation/master/src/assets/images/preview.jpg) 
 # Vercel Features Animation
 <table>
 <tr>
